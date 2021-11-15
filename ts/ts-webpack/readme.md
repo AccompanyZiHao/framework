@@ -1,6 +1,7 @@
 ###### 配置搭建 ts 环境
 
- mkdir ts-webpack
+```
+mkdir ts-webpack
 
 cd .\ts-webpack\
 
@@ -11,7 +12,7 @@ npm install -g yarn
 yarn add webpack ts-loader typescript webpack-cli
 
 npm start
-
+```
 
 
 ###### 运行
